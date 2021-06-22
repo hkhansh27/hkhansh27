@@ -1,7 +1,6 @@
-> Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.
+> Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life. 
 
-_John Gardner_
-
+*John Gardner* 
 ## Hi there, I'm Khanh - aka HKhansh 👋
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (HUTECH) not HCMUT 😢.
@@ -21,4 +20,4 @@ _John Gardner_
 <br />
 
 [![Khanh Huu Huynh's GitHub starts](https://github-readme-stats.vercel.app/api?username=hkhansh27&show_icons=true&theme=cobalt)
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/anuraghazra/github-readme-stats
