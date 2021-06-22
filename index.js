@@ -47,7 +47,7 @@ const generate = async () => {
 
   if (!quote) return;
 
-  fs.writeFileSync("README.md", `> ${quote} *${author}* ${textProfile}`);
+  fs.writeFileSync("README.md", `> ${quote} \n\n*${author}* ${textProfile}`);
 };
 
 generate();
