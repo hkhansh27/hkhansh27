@@ -1,8 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 
-const textProfile = `
-## Hi there, I'm Khanh - aka HKhansh 👋
+const textProfile = `## Hi there, I'm Khanh - aka HKhansh 👋
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (HUTECH) not HCMUT 😢.
 - 🌱 I’m currently learning new languages and technologies is what i am passionate about.
@@ -21,8 +20,7 @@ const textProfile = `
 <br />
 
 [![Khanh Huu Huynh's GitHub starts](https://github-readme-stats.vercel.app/api?username=hkhansh27&show_icons=true&theme=cobalt)
-)](https://github.com/anuraghazra/github-readme-stats)
-`;
+)](https://github.com/anuraghazra/github-readme-stats)`;
 
 const getQuote = async () => {
   try {
@@ -47,7 +45,7 @@ const generate = async () => {
 
   if (!quote) return;
 
-  fs.writeFileSync("README.md", `> ${quote} *${author}* ${textProfile}`);
+  fs.writeFileSync("README.md", `> ${quote} *${author}*`);
 };
 
 generate();
