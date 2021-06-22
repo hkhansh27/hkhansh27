@@ -21,7 +21,7 @@ const textProfile = `
 <br />
 
 [![Khanh Huu Huynh's GitHub starts](https://github-readme-stats.vercel.app/api?username=hkhansh27&show_icons=true&theme=cobalt)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
 `;
 
 const getQuote = async () => {
