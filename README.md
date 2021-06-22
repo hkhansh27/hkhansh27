@@ -19,4 +19,4 @@
 <br />
 <br />
 
-![Khanh Huu Huynh's GitHub starts(https://github-readme-stats.vercel.app/api?username=hkhansh27&show_icons=true&theme=cobalt)]
+[![Khanh Huu Huynh's GitHub starts](https://github-readme-stats.vercel.app/api?username=hkhansh27&show_icons=true&theme=cobalt)
