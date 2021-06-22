@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 > Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life. _John Gardner_
 
+=======
+> Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life. 
+
+*John Gardner* 
+>>>>>>> 0b17098e37091aff433f80ae668520668514dec3
 ## Hi there, I'm Khanh - aka HKhansh 👋
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (HUTECH) not HCMUT 😢.
