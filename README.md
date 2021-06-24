@@ -1,6 +1,6 @@
-> You must be the change you want to see in the world.. 
+> Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them. 
 
-*M.K. Gandhi* 
+*Zaha Hadid* 
 ## Hi there, I'm Khanh - aka HKhansh 👋
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (HUTECH) not HCMUT 😢.
