@@ -1,6 +1,6 @@
-> Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them. 
+> One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world. 
 
-*Zaha Hadid* 
+*Barack Obama* 
 ## Hi there, I'm Khanh - aka HKhansh 👋
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (HUTECH) not HCMUT 😢.
