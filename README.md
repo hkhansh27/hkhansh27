@@ -1,6 +1,6 @@
-> Great things are done by a series of small things brought together. 
+> You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages. 
 
-*Vincent Van Gogh* 
+*Michelle Obama* 
 ## Hi there, I'm Khanh - aka HKhansh 👋
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (HUTECH) not HCMUT 😢.
