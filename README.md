@@ -1,7 +1,7 @@
 > Stop complaining. Start creating. 
 
 *Dale Patridge* 
-## Hi there, I'm Khanh - aka HKhansh 👋
+## Hi there, I'm Khanh 👋
 
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology (HUTECH) not HCMUT 😢.
 - 🌱 I’m currently learning new languages and technologies is what i am passionate about.
