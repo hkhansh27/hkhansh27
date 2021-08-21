@@ -10,7 +10,6 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [<img alt="hkhansh27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp; [<img alt="hkhansh27 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] &nbsp;[<img alt="email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <!-- - 😄 Pronouns: -->
-- ⚡ Fun fact: I am a cheerful and ?cute boy 🥲
 
 [linkedin]: https://linkedin.com/in/hkhansh27
 [facebook]: https://www.facebook.com/hkhansh27
