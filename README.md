@@ -1,15 +1,6 @@
-> Stop complaining. Start creating. 
-
-*Dale Patridge* 
-## Hi there, I'm Khanh 👋
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800">
-<!-- - 😄 Pronouns: -->
-
-
+<img src="images/greeting.svg" width="1200" alt="Greeting" />
 <br />
 <br />
-
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
